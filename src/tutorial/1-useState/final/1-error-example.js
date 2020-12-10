@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ErrorExample = () => {
-  let title = 'random title';
+  let title = 'Test';
 
   const handleClick = () => {
     title = 'hello people';
